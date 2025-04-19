@@ -58,6 +58,8 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: >-
+        /images/abstract-pink-gradient-mesh-color-background-with-blank-smooth-and-blurred-multicolored-style-vector.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
