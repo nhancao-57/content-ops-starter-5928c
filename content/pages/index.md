@@ -12,7 +12,7 @@ sections:
       thân thiện và hiệu quả!
     text: ''
     actions:
-      - label: Get started
+      - label: Xem các khóa học
         altText: ''
         url: /
         showIcon: false
