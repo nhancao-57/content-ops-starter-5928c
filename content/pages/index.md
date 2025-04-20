@@ -4,16 +4,15 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: BÙNG NỔ MÙA HÈ CÙNG PALA - ƯU ĐÃI LÊN ĐẾN 50%!
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    subtitle: >-
+      Đăng ký ngay hôm nay để trải nghiệm môi trường học tiếng Anh năng động,
+      thân thiện và hiệu quả!
+    text: ''
     actions:
-      - label: Get started
+      - label: Xem các khóa học
         altText: ''
         url: /
         showIcon: false
@@ -22,7 +21,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Về chúng tôi
         altText: ''
         url: /
         showIcon: true
@@ -32,7 +31,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/z6516851048522_0454f64c1016cec90d0dce9d71a1110d.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -41,7 +40,7 @@ sections:
       color: text-primary
       type: Badge
     elementId: ''
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
@@ -51,15 +50,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: >-
-        /images/abstract-pink-gradient-mesh-color-background-with-blank-smooth-and-blurred-multicolored-style-vector.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
