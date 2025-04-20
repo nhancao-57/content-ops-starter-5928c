@@ -50,15 +50,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: >-
-        /images/abstract-pink-gradient-mesh-color-background-with-blank-smooth-and-blurred-multicolored-style-vector.jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
