@@ -21,7 +21,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Về chúng tôi
         altText: ''
         url: /
         showIcon: true
