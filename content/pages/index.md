@@ -36,11 +36,11 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: NGOẠI NGỮ PALA
+      label: TRUNG TÂM NGOẠI NGỮ PALA
       color: text-primary
       type: Badge
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
@@ -50,6 +50,8 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      subtitle:
+        fontWeight: 700
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
