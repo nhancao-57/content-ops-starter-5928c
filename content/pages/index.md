@@ -36,7 +36,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: NGOẠI NGỮ PALA
+      label: TRUNG TÂM NGOẠI NGỮ PALA
       color: text-primary
       type: Badge
     elementId: ''
