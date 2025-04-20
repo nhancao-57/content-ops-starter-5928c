@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: BÙNG NỔ MÙA HÈ
+      text: BÙNG NỔ MÙA HÈ CÙNG PALA - ƯU ĐÃI LÊN ĐẾN 50%!
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
