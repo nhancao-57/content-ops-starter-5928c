@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: BÙNG NỔ MÙA HÈ CÙNG PALA - ƯU ĐÃI LÊN ĐẾN 50%!
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: >-
       Đăng ký ngay hôm nay để trải nghiệm môi trường học tiếng Anh năng động,
