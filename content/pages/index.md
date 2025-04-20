@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: PALA
+      text: BÙNG NỔ MÙA HÈ
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
